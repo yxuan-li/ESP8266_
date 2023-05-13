@@ -1,4 +1,3 @@
 通过模拟公司网络环境进行远程打卡  
 To use:  
 	Downlaod header file from https://github.com/tzapu/WiFiManager  
-	Modify default settings from line 53 to line 57  
